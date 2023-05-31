@@ -6,10 +6,10 @@ Each notebook should be self contained!
 
 ## Organization
 
-Each day has its own folder, within each navigate to the talk or breakout session.
+Each day has its own folder, within each folder navigate to the talk or breakout session.
 
-## Computing Environment
+## Python Environment
 
 The yml file will be updated [here](https://github.com/Unidata/science-gateway/tree/master/jupyter-images).
 
-
+This workshop was designed to run on CPU's only. 
