@@ -8,6 +8,8 @@ Each notebook should be self contained!
 
 Each day has its own folder, within each folder navigate to the talk or breakout session.
 
+Schedule is [here](https://www.unidata.ucar.edu/events/2023UsersWorkshop/#schedule)
+
 ## Python Environment
 
 The yml file will be updated [here](https://github.com/Unidata/science-gateway/tree/master/jupyter-images).
