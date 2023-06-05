@@ -2,7 +2,7 @@
 
 Repository for Jupyter Notebooks for Unidata Users Workshop, 2023.
 
-Each notebook should be self contained!
+Each notebook should be (mostly) self contained!
 
 ## Organization
 
