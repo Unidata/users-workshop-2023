@@ -15,3 +15,8 @@ Schedule is [here](https://www.unidata.ucar.edu/events/2023UsersWorkshop/#schedu
 The yml file will be updated [here](https://github.com/Unidata/science-gateway/tree/master/jupyter-images).
 
 This workshop was designed to run on CPU's only. 
+
+
+## Sharing 
+
+Please ask the author for sharing and licensing. 
