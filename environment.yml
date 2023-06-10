@@ -22,6 +22,7 @@ dependencies:
  - pint
  - pint-xarray
  - pip
+ - pykdtree
  - pyproj
  - python
  - scikit-learn
